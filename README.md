@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a doctoral student at EPFL working on quantum simulation!
+That sounds like something software-related, but actually I am creating hardware to perform new quantum simulation experiments. Nevertheless, I need to use a lot of classical software to help me...
 
 <!--
 **gaalbenedek/gaalbenedek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
